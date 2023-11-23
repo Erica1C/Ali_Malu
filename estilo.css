@@ -1,13 +1,16 @@
 body{
     background-color:rgb(229, 153, 183);
 color:black
-font-size: 600px;
+font-size: 60px;
 text-align: center;
 }
 
 p{
     text-align: center;
     color:black;
+}
+#imagem{
+    width: 30%;
 }
 #produtos{
     font-size: 40px;
