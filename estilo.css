@@ -1,8 +1,9 @@
 body{
     background-color:rgb(229, 153, 183);
-color:black
+color:black;
 font-size: 60px;
 text-align: center;
+font-family: 'Saira Extra Condensed', sans-serif;
 }
 
 p{
