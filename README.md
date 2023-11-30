@@ -1,7 +1,7 @@
 Criadoras:
-Alice Queiroz
-Beatriz Pimentel
-Erica Daiane
+Alice Queiroz;
+Beatriz Pimentel;
+Erica Daiane;
 
 # Ali_Malu | Loja Online
 
